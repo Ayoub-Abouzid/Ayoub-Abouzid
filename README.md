@@ -2,7 +2,7 @@
 
  
   
-# 👀 I’m interested in
+## 👀 I’m interested in
   
   -Computers, Microsoft
 
@@ -17,7 +17,7 @@
   -Making videogames
 
 
-#  😎 Skills 
+##  😎 Skills 
 
   -Arduino
 
@@ -28,7 +28,7 @@
   -HTML, CSS
   
   
-#  🌱 I’m currently learning
+##  🌱 I’m currently learning
 
    -Coding
 
@@ -43,7 +43,7 @@
    -Javascript
 
 
- # 🎯 Goals
+ ## 🎯 Goals
 
   -My goal is becoming a professional proggrammer and being able to work on big projects in the future.
 
