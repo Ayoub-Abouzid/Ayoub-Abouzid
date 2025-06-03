@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Ayoub-Abouzid
+- 👋 Hi, I’m @Ayoub-Abouzid, i student from itis majorana high school where you learn
+
+   how to code and other things about elettronics and ecc...
 - 👀 I’m interested in
   
   -Computers, Microsoft, C#.
