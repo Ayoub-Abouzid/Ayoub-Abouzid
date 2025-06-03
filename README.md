@@ -4,48 +4,48 @@
   
 ## 👀 I’m interested in
   
-  -Computers, Microsoft
+  Computers, Microsoft
 
-  -Footbal (soccer)
+  Footbal (soccer)
 
-  -Nature
+  Nature
 
-  -Github
+  Github
 
-  -Cyberbullying
+  Cyberbullying
 
-  -Making videogames
+  Making videogames
 
 
 ##  😎 Skills 
 
-  -Arduino
+  Arduino
 
-  -Javascript
+  Javascript
 
-  -C#, C
+  C#, C
 
-  -HTML, CSS
+  HTML, CSS
   
   
 ##  🌱 I’m currently learning
 
-   -Coding
+   Coding
 
-   -C#
+   C#
 
-   -HTML
+   HTML
 
-   -CSS
+   CSS
 
-   -C
+   C
 
-   -Javascript
+   Javascript
 
 
  ## 🎯 Goals
 
-  -My goal is becoming a professional proggrammer and being able to work on big projects in the future.
+  My goal is becoming a professional proggrammer and being able to work on big projects in the future.
 
 
   
