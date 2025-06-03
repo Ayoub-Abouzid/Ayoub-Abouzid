@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @Ayoub-Abouzid
 - 👀 I’m interested in
-  Computers and other devices
-  Footbal (soccer)
-  Nature
-  Github
+  
+  -Computers and other devices
+
+  -Footbal (soccer)
+
+  -Nature
+
+  -Github
   
 - 🌱 I’m currently learning
    -Computer scienze
