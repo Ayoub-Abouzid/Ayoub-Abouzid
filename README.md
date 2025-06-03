@@ -1,13 +1,16 @@
 - 👋 Hi, I’m @Ayoub-Abouzid
 - 👀 I’m interested in
   
-  -Computers and other devices
+  -Computers, Microsoft, C#.
 
   -Footbal (soccer)
 
   -Nature
 
   -Github
+
+  -Cyberbullying
+  
   
 - 🌱 I’m currently learning
 
