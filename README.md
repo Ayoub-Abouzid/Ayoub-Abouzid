@@ -16,7 +16,7 @@
   
 - 🌱 I’m currently learning
 
-    -Codeing
+    -Coding
 
     -C#, HTML, CSS, C.
 
