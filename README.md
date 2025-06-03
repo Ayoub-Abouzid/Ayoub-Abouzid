@@ -14,7 +14,10 @@
   
 - 🌱 I’m currently learning
 
-    -Computer scienze
+    -Codeing
+
+    -C#, HTML, CSS, C.
+
 
   
 
