@@ -12,6 +12,9 @@
   -Github
 
   -Cyberbullying
+
+  -Making videogames
+
   
   
 - 🌱 I’m currently learning
