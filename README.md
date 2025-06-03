@@ -1,6 +1,6 @@
-# **👋 Hi, I’m @Ayoub-Abouzid, i student from itis majorana high school, i hold a Cisco certification and also a B1 level english certificate.**#
+# **👋 Hi, I’m @Ayoub-Abouzid, im student from itis majorana high school, i hold a Cisco certification and also a B1 level english certificate.*#
 
-   how to code and other things about elettronics and ecc...
+ 
   
 - 👀 I’m interested in
   
