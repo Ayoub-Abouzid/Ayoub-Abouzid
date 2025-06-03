@@ -1,4 +1,4 @@
-# **👋 Hi, I’m Ayoub-Abouzid; a student at itis majorana high school - Cisco - B1 level english certificate.**
+# **👋 Hi, I’m Ayoub Abouzid; a student at itis majorana high school - Cisco - B1 level english certificate.**
 
  
   
