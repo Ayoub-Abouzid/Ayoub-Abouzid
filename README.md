@@ -10,7 +10,9 @@
   -Github
   
 - 🌱 I’m currently learning
-   -Computer scienze
+
+    -Computer scienze
+
   
 
 <!---
