@@ -43,6 +43,11 @@
     -Javascript
 
 
+  -🎯 Goals
+
+  -My goal is becoming a professional proggrammer and being able to work on big projects in the future.
+
+
   
 
 <!---
