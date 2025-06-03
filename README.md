@@ -28,19 +28,19 @@
   -HTML, CSS
   
   
-# 🌱 I’m currently learning
+#  🌱 I’m currently learning
 
-    -Coding
+   -Coding
 
-    -C#
+   -C#
 
-    -HTML
+   -HTML
 
-    -CSS
+   -CSS
 
-    -C
+   -C
 
-    -Javascript
+   -Javascript
 
 
  # 🎯 Goals
